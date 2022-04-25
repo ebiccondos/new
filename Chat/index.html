@@ -86,20 +86,134 @@
 </header>
 <!-- end header section -->
   </div>
-<br><br>
-  <div id="pp" style="font-size: 29px;" class="col-sm-12">
-    <div class="alert fade alert-simple alert-warning alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
-      <button type="button" class="close font__size-18" data-dismiss="alert">
-              <span aria-hidden="true">
-                <i class="fa fa-times warning"></i>
-              </span>
-              <span class="sr-only">Close</span>
-            </button>
-      <i class="start-icon fa fa-exclamation-triangle faa-flash animated"></i>
-      <strong class="font__weight-semibold">This page is not available at the moment </strong> We are configuring this page, in a few days we will finish this page, come back soon.
+
+
+
+
+<section class="book_section layout_padding">
+    
+  <div class="container">
+
+
+
+    <div style="max-height: 400px;" class="chat-messages p-4">
+
+      <div style="display: none;" class="chat-message-right pb-4">
+        <div>
+          <img style="user-select: none;" src="https://tr.rbxcdn.com/c1f783e14d60950de021fd6fd4841951/150/150/AvatarHeadshot/Png" class="rounded-circle mr-1" alt="Chris Wood" width="40" height="40">
+          <div style="color: #a3b4ff;" class="small text-nowrap mt-2">2:33 am</div>
+        </div>
+        <div class="flex-shrink-1 rounded py-2 px-3 mr-3">
+          <div class="font-weight-bold mb-1">You</div>
+          Lorem ipsum dolor sit amet, vis erat denique in, dicunt prodesset te vix.
+        </div>
+      </div>
+  
+     
+     
+  
+      <div class="chat-message-left pb-4">
+        <div>
+          <img src="https://tr.rbxcdn.com/c1f783e14d60950de021fd6fd4841951/150/150/AvatarHeadshot/Png" class="rounded-circle mr-1" alt="Sharon Lessman" width="40" height="40">
+          <div style="color: #a3b4ff;" class="small text-nowrap mt-2">2:37 am</div>
+        </div>
+        <div class="flex-shrink-1    rounded py-2 px-3 ml-3">
+          <div class="font-weight-bold mb-1">Diego</div>
+          Messages sent from the game will appear here, Remember: Only public game chats will appear, if you are in a room your chats will not be recorded, If you are in a private game, no data will be sent.
+        </div>
+      </div>
+      
+      <div id="pp" style="font-size: 21px;" >
+        <div class="alert fade alert-simple alert-warning alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
+          <button  type="button" class="close font__size-18" data-dismiss="alert">
+                  <span aria-hidden="true">
+                    <i class="fa fa-times warning"></i>
+                  </span>
+                  <span class="sr-only">Close</span>
+                </button>
+          <i class="start-icon fa fa-exclamation-triangle faa-flash animated"></i>
+          <strong class="font__weight-semibold">Page not available </strong> We are setting up this page, come back soon.
+        </div>
+      </div>
+      
+      
     </div>
   </div>
-  <br><br>
+  
+  <div style="display: none;"  class="flex-grow-0 py-3 px-4 border-top">
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Type your message">
+      <button class="btn btn-primary">Send</button>
+    </div>
+  </div>
+  
+  </div>
+
+
+  </div>
+</section>
+
+<style>
+
+body{margin-top:20px;}
+
+.chat-online {
+    color: #34ce57
+}
+
+.chat-offline {
+    color: #e4606d
+}
+
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    max-height: 800px;
+    overflow-y: scroll
+}
+
+.chat-message-left,
+.chat-message-right {
+    display: flex;
+    flex-shrink: 0
+}
+
+.chat-message-left {
+    margin-right: auto
+}
+
+.chat-message-right {
+    flex-direction: row-reverse;
+    margin-left: auto
+}
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.px-4 {
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+}
+.flex-grow-0 {
+    flex-grow: 0!important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- footer section -->
 <footer class="footer_section">
   <div class="container">
