@@ -4,6 +4,7 @@
 <head>
   <!-- Basic -->
   <title>Post Your Condo Game</title>
+  <link rel="icon" type="image/png" href="/images/logo.png" sizes="20x20">
   <meta name="google-site-verification" content="15_vgvmH4dBpameO1cJH8aZgDvqvWAqgek9sjC4klkk" />
   <script src='https://www.google.com/recaptcha/api.js'></script>
   <meta charset="utf-8" />
@@ -12,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
   <meta name="keywords" content="roblox condo game, roblox condo, condo games, roblox condo games, roblox condo game, condos, cons, condos, condo games, ebic condos, best condo, rbx condo, condo games">
-  <meta name="description" content="Here you will find the best roblox condo games. Customize, create or post your condo game!" />
+  <meta name="description" content="Publish your condo games on our page" />
   <meta name="author" content="Diego Miguel" />
   <meta name="referrer" content="no-referrer">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -87,20 +88,46 @@
 </header>
 <!-- end header section -->
   </div>
-<br><br>
-  <div id="pp" style="font-size: 29px;" class="col-sm-12">
-    <div class="alert fade alert-simple alert-warning alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
-      <button type="button" class="close font__size-18" data-dismiss="alert">
-              <span aria-hidden="true">
-                <i class="fa fa-times warning"></i>
-              </span>
-              <span class="sr-only">Close</span>
-            </button>
-      <i class="start-icon fa fa-exclamation-triangle faa-flash animated"></i>
-      <strong class="font__weight-semibold">This page is not available at the moment </strong> We are configuring this page, in a few days we will finish this page, come back soon.
+    
+    <div class="container">
+      <div id="GenFraame" class="Post">
+        <div class="box ">
+
+
+          <div class="detail-box">
+            
+            <div class="heading_container heading_center">
+              <h4>
+                Post Condo
+              </h4>
+            </div>
+
+            <h5 style="margi-top: 5px;">
+              Enter Game Id or Game Link
+            </h5>
+
+            
+            <input style="color: #8c9cff; " type="input" class="form-control" name="link" id="GameLink" aria-describedby="" >
+            <label style="display: none; margin-top: 7px; margin-bottom: -10px;" for="Error" id="ClientErrorName" class="form-label LinkError">The game link or game id is invalid</label>
+
+            <br>
+            <div id="dadasdsafd" class="heading_container heading_center"> 
+              <div style=" padding-top: 3px; justify-content: center; align-items: center;" id="recaptcha3"></div>
+            </div>
+            <label style="display: none; margin-top: 5px;" for="Error" id="ClientErrorName" class="form-label captchaError">Obligatory field</label>
+
+            <br>
+            <a id="Everyone" onclick="VerifyFields()">
+              <i class="fa-solid fa-circle-plus"></i>
+              Post Now
+            </a>
+            
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-  <br><br>
+    <br>
+    <br>
 <!-- footer section -->
 <footer class="footer_section">
   <div class="container">
@@ -181,6 +208,7 @@
  <script type="text/javascript">
    const home = false
  </script>
+ <script src="/js/post.js"></script>
  <script src="/js/home.js"></script>
  <!-- bootstrap js -->
  <script src="/js/bootstrap.js"></script>
