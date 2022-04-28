@@ -4,6 +4,7 @@
 <head>
   <!-- Basic -->
   <title> Roblox Condo Games </title>
+  <link rel="icon" type="image/png" href="/images/logo.png" sizes="20x20">
   <script src='https://www.google.com/recaptcha/api.js'></script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -13,7 +14,6 @@
   <meta name="keywords" content="roblox condo game, roblox condo, condo games, roblox condo games, roblox condo game, condos, cons, condos, condo games, ebic condos, best condo, rbx condo, condo games">
   <meta name="description" content="Here you will find the best roblox condo games. Customize, create or post your condo game!" />
   <meta name="author" content="Diego Miguel" />
-  <meta name="google-site-verification" content="15_vgvmH4dBpameO1cJH8aZgDvqvWAqgek9sjC4klkk" />
   <meta name="referrer" content="no-referrer">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -129,7 +129,7 @@
                     Start generating games for you and your friends in seconds, easy and fast!
                   </p>
                   <div class="btn-box">
-                    <a onclick="window.open('/create', '_self')" class="btn1">
+                    <a onclick="window.open('/Create', '_self')" class="btn1">
                       Generate Games
                     </a>
                   </div>
@@ -144,7 +144,7 @@
               <div class="col-md-7 col-lg-6 ">
                 <div class="detail-box">
                   <h1>
-                    Post Your Condo Games
+                    Post Condo Games
                   </h1>
                   <p>
                     Post your condo games on our page for everyone to play!
@@ -282,160 +282,22 @@
 
 <!-- food section -->
 <section class="food_section layout_padding-bottom">
-  <div class="container">
-    <div class="heading_container heading_center">
-      <h2>
-        More Condo Games
-      </h2>
-    </div>
-
-    <ul class="filters_menu">
-      <li class="active" data-filter="*">All</li>
-      <li data-filter=".R15">R15</li>
-      <li data-filter=".R6">R6</li>
-      <li data-filter=".FD">From Discord</li>
-      <li data-filter=".Others">Others</li>
-    </ul>
-
-    <div class="filters-content">
-      <div id="MainPostGamesList" class="row grid">
-
-
-        <div class="col-sm-6 col-lg-4 all R15">
-          <div class="box">
-            <div>
-              <div class="img-box">
-                <img src="/images/gamesx2.png" alt="">
-              </div>
-              
-              <div class="detail-box">
-                <h5>
-                  Coming Soon
-                </h5>
-                <p>
-                  Coming Soon
-                </p>
-                <div class="options">
-                  <h6>
-                    <i class="fa-solid fa-user-group"></i>
-                     99+ PLAYING
-                  </h6>
-                  <a>
-                    <i class="fa-solid fa-play"></i>
-                  Play</a>
-                </div>
-                <a id="MoreOptionsGame"> <i style="margin-left: 10px;" id="Pointss" class="fa-solid fa-ellipsis-vertical"></i> More Options</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-        <div class="col-sm-6 col-lg-4 all R6">
-          <div class="box">
-            <div>
-              <div class="img-box">
-                <img src="/images/gamesx2.png" alt="">
-              </div>
-              
-              <div class="detail-box">
-                <h5>
-                  Coming Soon
-                </h5>
-                <p>
-                  Coming Soon
-                </p>
-                <div class="options">
-                  <h6>
-                    <i class="fa-solid fa-user-group"></i>
-                     99+ PLAYING
-                  </h6>
-                  <a>
-                    <i class="fa-solid fa-play"></i>
-                  Play</a>
-                </div>
-                <a id="MoreOptionsGame"> <i style="margin-left: 10px;" id="Pointss" class="fa-solid fa-ellipsis-vertical"></i> More Options</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-        <div class="col-sm-6 col-lg-4 all FD">
-          <div class="box">
-            <div>
-              <div class="img-box">
-                <img src="/images/gamesx2.png" alt="">
-              </div>
-              
-              <div class="detail-box">
-                <h5>
-                  Coming Soon
-                </h5>
-                <p>
-                  Coming Soon
-                </p>
-                <div class="options">
-                  <h6>
-                    <i class="fa-solid fa-user-group"></i>
-                     99+ PLAYING
-                  </h6>
-                  <a>
-                    <i class="fa-solid fa-play"></i>
-                  Play</a>
-                </div>
-                <a id="MoreOptionsGame"> <i style="margin-left: 10px;" id="Pointss" class="fa-solid fa-ellipsis-vertical"></i> More Options</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-        <div class="col-sm-6 col-lg-4 all Others">
-          <div class="box">
-            <div>
-              <div class="img-box">
-                <img src="/images/gamesx2.png" alt="">
-              </div>
-              
-              <div class="detail-box">
-                <h5>
-                  Coming Soon
-                </h5>
-                <p>
-                  Coming Soon
-                </p>
-                <div class="options">
-                  <h6>
-                    <i class="fa-solid fa-user-group"></i>
-                     99+ PLAYING
-                  </h6>
-                  <a>
-                    <i class="fa-solid fa-play"></i>
-                  Play</a>
-                </div>
-                <a id="MoreOptionsGame"> <i style="margin-left: 10px;" id="Pointss" class="fa-solid fa-ellipsis-vertical"></i> More Options</a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-        
-       
-
-
-      </div>
-    </div>
-    <div class="btn-box">
+  <div id="PostCaptchaError" class="heading_container heading_center PostCaptchaError">
+    <h2>
+      More Condo Games
+    </h2>
+    <h6 id="TextCondosStatus" style="margin-top: 14px; text-align: center; color: #a5b1ff; font-size: 18px;">
+      You must solve a captcha to see this section, solve the captcha by checking "I'm not a robot"
+    </h6>
+    <div style="margin-top: 14px;" class="btn-box">
       <a onclick="window.open('/PostCondoGames', '_self')">
         Post Condo Game
       </a>
     </div>
   </div>
 </section>
+
+
 
 <!-- end food section -->
 
