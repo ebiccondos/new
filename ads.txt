@@ -1,0 +1,1290 @@
+152media.com, 152, DIRECTO
+152media.info, 152M1, DISTRIBUIDOR
+152media.info, 152M10, DISTRIBUIDOR
+152media.info, 152M17, DISTRIBUIDOR
+152media.info, 152M7, DISTRIBUIDOR
+33across.com, 0010b00001shFQpAAM, DIRECTO, bbea06d9c4d2853c
+33across.com, 0010b00002cGp2AAAS, REVENDEDOR, bbea06d9c4d2853c
+33across.com, 0010b00002CpYhEAAV, REVENDEDOR, bbea06d9c4d2853c
+33across.com, 0010b00002MpnPqAAJ, DIRECTO, bbea06d9c4d2853c
+33across.com, 0010b00002Mq2FYAAZ, DIRECTO, bbea06d9c4d2853c
+33across.com, 0010b00002OCUmCAAX, REVENDEDOR, bbea06d9c4d2853c
+33across.com, 0010b00002T3JniAAF, DIRECTO, bbea06d9c4d2853c
+33across.com, 0010b00002Xbn7QAAR, REVENDEDOR, bbea06d9c4d2853c
+33across.com, 0013300001kQj2HAAS, REVENDEDOR, bbea06d9c4d2853c
+33across.com, 0013300001qkdlwAAA, REVENDEDOR
+33across.com, 0013300001r0t9mAAA, REVENDEDOR
+33across.com, 010b000018lt8baae, DIRECTO, bbea06d9c4d2853c
+33across.com, 33, DISTRIBUIDOR
+33across.com, _0010b00002MpnPqAAJ_, DIRECTO, bbea06d9c4d2853c
+aax.media, AAX65WOCF, DIRECTO
+ad-generation.jp, 12474, REVENDEDOR, 7f4ea9029ac04e53
+ad.plus, 352349, DIRECTO
+adagio.io, 1015, DIRECTO
+adagio.io, 1069, REVENDEDOR
+adcolony.com, 801e49d1be83b5f9, REVENDEDOR, 1ad675c9de6b5176
+adcolony.com, c490f6e7399a25d6, REVENDEDOR, 1ad675c9de6b5176
+adform.com, 1431, DISTRIBUIDOR
+adform.com, 1512, DISTRIBUIDOR
+adform.com, 183, DISTRIBUIDOR
+adform.com, 1941, DIRECTO
+adform.com, 1942, DIRECTO
+adform.com, 1985, DIRECTO, 9f5210a2f0999e32
+adform.com, 2464, DISTRIBUIDOR, 9f5210a2f0999e32
+adform.com, 2474, DIRECTO, 9f5210a2f0999e32
+adform.com, 2600, DIRECTO
+adform.com, 2631, DISTRIBUIDOR, 9f5210a2f0999e32
+adform.com, 2671, DISTRIBUIDOR
+adform.com, 2708, DISTRIBUIDOR, 9f5210a2f0999e32
+adform.com, 2742, DISTRIBUIDOR
+adform.com, 768, DISTRIBUIDOR
+adiix.com, pub-2736DD97D4BD2E7DC8AD6967ED73DE98, DIRECTO
+adiix.com, pub-627D9323BEAE272317BAD8A3A47394E, DIRECTO
+adingo.jp, 24483, DIRECTO
+admanmedia.com, 43, REVENDEDOR
+admanmedia.com, 594, DISTRIBUIDOR
+admanmedia.com, 722, DIRECTO
+admanmedia.com, 726, DISTRIBUIDOR
+admanmedia.com, 746, DISTRIBUIDOR
+admanmedia.com, 812, DIRECTO
+admanmedia.com, 9, DIRECTO
+admanmedia.com, 943, DIRECTO
+admatic.com.tr, adm-pub-185375301865, DIRECTO
+admixer.net, 3bc509b2-6568-4bd8-a997-9859ba0c9118, REVENDEDOR
+admixer.net, 5fec4b7e-00be-4619-a907-c423ed15d8ea, DIRECTO
+admixer.net, d2a81185-2f98-4a5d-82b0-746defebc581, DIRECTO
+admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, DISTRIBUIDOR
+adocean-global.com, 80365, DISTRIBUIDOR
+adpone.com, 1813bfe577448f6ef478, DIRECTO
+adpone.com, 75723e830d4f28015d44, DIRECTO
+adsparc.com, 720305, DIRECTO
+adtarget.com.tr, 306742, DIRECTO
+adtarget.com.tr, 682499, DIRECTO
+adtech.com, 10765, DISTRIBUIDOR
+adtech.com, 10947, DIRECTO, e1a5b5b6e3255540
+adtech.com, 10975, DISTRIBUIDOR
+adtech.com, 11208, DISTRIBUIDOR
+adtech.com, 11303, DISTRIBUIDOR
+Adtech.com, 11409, DISTRIBUIDOR
+adtech.com, 12068, DISTRIBUIDOR, e1a5b5b6e3255540
+adtech.com, 12069, DISTRIBUIDOR
+adtech.com, 12094, DISTRIBUIDOR
+adtech.com, 4687, DISTRIBUIDOR
+adtech.com, 9834, DIRECTO
+adtech.com, 9904, DISTRIBUIDOR
+adtech.com, 9993, DISTRIBUIDOR
+adtelligent.com, 440475, DIRECTO
+adtelligent.com, 493076, DIRECTO
+adtrue.com, 2341, DIRECTO
+advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, REVENDEDOR, 60d26397ec060f98
+advangelists.com, b6f0479ae87d244975439c6124592772, REVENDEDOR, 60d26397ec060f98
+publicidad.com, 12287, DIRECTO
+publicidad.com, 12543, REVENDEDOR
+publicidad.com, 12624, REVENDEDOR
+Advertising.com, 16736, DISTRIBUIDOR
+Advertising.com, 17744, DISTRIBUIDOR
+publicidad.com, 18632, REVENDEDOR
+publicidad.com, 19623, REVENDEDOR
+publicidad.com, 21483, DIRECTO, e1a5b5b6e3255540
+publicidad.com, 22762, REVENDEDOR
+publicidad.com, 23089, REVENDEDOR
+Publicidad.com, 23598, DIRECTO
+publicidad.com, 24140, DIRECTO
+publicidad.com, 26154, REVENDEDOR
+publicidad.com, 26282, REVENDEDOR
+publicidad.com, 26631, REVENDEDOR
+publicidad.com, 28038, REVENDEDOR
+publicidad.com, 28056, REVENDEDOR
+publicidad.com, 28246, REVENDEDOR
+publicidad.com, 28305, REVENDEDOR
+publicidad.com, 28335, DIRECTO, e1a5b5b6e3255540
+publicidad.com, 28409, DIRECTO, e1a5b5b6e3255540
+publicidad.com, 28509, DIRECTO, e1a5b5b6e3255540
+publicidad.com, 28605, REVENDEDOR
+publicidad.com, 28613, REVENDEDOR
+publicidad.com, 28650, REVENDEDOR
+publicidad.com, 28841, DIRECTO
+publicidad.com, 28853, DIRECTO
+publicidad.com, 28954, REVENDEDOR
+publicidad.com, 3531, REVENDEDOR
+Advertising.com, 6202, DISTRIBUIDOR
+publicidad.com, 7574, DIRECTO
+publicidad.com, 8603, REVENDEDOR
+adwmg.com, 142088, DISTRIBUIDOR
+adyoulike.com, ad8c19559e1f2d3424eb0be801d8e184, DIRECTO
+adyoulike.com, b3e21aeb2e950aa59e5e8cc1b6dd6f8e, DIRECTO, 4ad745ead2958bf7
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, REVENDEDOR
+adyoulike.com, e102ab4faade732565927e57d62d6b8b, REVENDEDOR
+adyoulike.com, f963243b8472aa9474d37bb6173c4f18, REVENDEDOR
+aerserv.com, 2750, DISTRIBUIDOR, 2ce496b9f80eb9fa
+algorix.co, 60163, DIRECTO, 5b394c12fea27a2d
+altitude-arena.com, EELLLBP86H2PDAQQLSK385CM5G, REVENDEDOR
+altitude-arena.com, QMISKA3MKD0J79EA51RA7O9JJ0, REVENDEDOR
+altitudedigital.com, 146321, DISTRIBUIDOR
+amxrtb.com, 105199335, DIRECTO
+amxrtb.com, 105199400, DIRECTO
+amxrtb.com, 105199514, REVENDEDOR
+amxrtb.com, 105199526, DIRECTO
+amxrtb.com, 105199579, DIRECTO
+aniview.com, 57173f460757bb6c428b465b, DISTRIBUIDOR, 78b21b97965ec3f8
+aol.com, 22762, DISTRIBUIDOR
+aol.com, 27093, DISTRIBUIDOR
+aol.com, 46658, DISTRIBUIDOR
+aol.com, 47594, REVENDEDOR, e1a5b5b6e3255540
+aol.com, 53392, DISTRIBUIDOR
+aol.com, 55011, REVENDEDOR, e1a5b5b6e3255540
+aol.com, 56860, REVENDEDOR, e1a5b5b6e3255540
+aol.com, 57545, REVENDEDOR, e1a5b5b6e3255540
+aol.com, 57992, DISTRIBUIDOR, e1a5b5b6e3255540
+aol.com, 58905, REVENDEDOR, e1a5b5b6e3255540
+aolcloud.net, 10765, DISTRIBUIDOR
+aolcloud.net, 24140, DIRECTO
+aolcloud.net, 4687, DISTRIBUIDOR
+aolcloud.net, 9834, DIRECTO
+aolcloud.net, 9904, DISTRIBUIDOR
+aolcloud.net, 9993, DISTRIBUIDOR
+appads.in, 107606, DISTRIBUIDOR
+appnexus.com, 1001, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 10040, DISTRIBUIDOR
+Appnexus.com, 10062, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 10239, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 10264, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 10490, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 10617, DISTRIBUIDOR
+appnexus.com, 10726, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 11664, DISTRIBUIDOR
+appnexus.com, 11786, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 11801, DISTRIBUIDOR
+appnexus.com, 11874, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 11924, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 1199, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 12061, DISTRIBUIDOR
+appnexus.com, 12223, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 12290, DISTRIBUIDOR
+appnexus.com, 12366, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 12475, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 12495, DISTRIBUIDOR
+appnexus.com, 12637, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 12695, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 13099, DISTRIBUIDOR
+appnexus.com, 13162, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 13381, DISTRIBUIDOR, f5ab79cb980f11d1
+Appnexus.com, 1356, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 1360, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 13701, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 1613, DISTRIBUIDOR
+appnexus.com, 1619, DIRECTO
+appnexus.com, 1908, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 1942, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 2081, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 2234, DISTRIBUIDOR
+appnexus.com, 2725, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 2758, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 2928, DIRECTO
+appnexus.com, 310, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 3135, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 3153, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 3251, DISTRIBUIDOR
+appnexus.com, 3326, DISTRIBUIDOR
+appnexus.com, 3364, DISTRIBUIDOR
+appnexus.com, 3605, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 3663, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 3703, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 4052, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 6849, DISTRIBUIDOR
+appnexus.com, 7044, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 7080, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 7118, DISTRIBUIDOR
+appnexus.com, 7164, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 7556, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 7597, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 7620, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 7666, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 7847, DIRECTO, f5ab79cb980f11d1
+appnexus.com, 7911, DISTRIBUIDOR
+appnexus.com, 7944, DISTRIBUIDOR
+appnexus.com, 8035, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 8148, DISTRIBUIDOR
+appnexus.com, 8233, DIRECTO
+appnexus.com, 8610, REVENDEDOR, f5ab79cb980f11d1
+appnexus.com, 8738, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 8790, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 8804, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 8950, DISTRIBUIDOR
+appnexus.com, 9027, DISTRIBUIDOR
+appnexus.com, 9316, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 9382, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 9393, DISTRIBUIDOR
+appnexus.com, 9569, DISTRIBUIDOR
+appnexus.com, 9684, DISTRIBUIDOR, f5ab79cb980f11d1
+appnexus.com, 9733, DISTRIBUIDOR
+appnexus.com, 9847, DISTRIBUIDOR
+appnexus.com, 9982, DIRECTO, f5ab79cb980f11d1
+aps.amazon.com, 48266a61-b3d9-4cb7-b172-553abc6a42a4, DIRECTO
+aps.amazon.com, 93aec77c-f6d2-45bd-affc-a85ab5a72683, DIRECTO
+aps.amazon.com, aa05931b-5308-4ea3-95a2-adf84f4ffde4, DIRECTO
+aps.amazon.com, aa05931b-5308-4ea3-95a2-adf84f4ffde7, DIRECTO
+aralego.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, REVENDEDOR
+aralego.com, pub-2736DD97D4BD2E7DC8AD6967ED73DE98, DIRECTO
+aralego.com, pub-627D9323BEAE272317BAD8A3A47394E, DIRECTO
+audiencia.media, 100358, REVENDEDOR
+audienciad.com, 203052, DIRECTO
+Avantisvideo.com, 8477, DIRECTO
+axonix.com, 56222, DISTRIBUIDOR
+axonix.com, 57264, DISTRIBUIDOR
+axonix.com, 57869, DISTRIBUIDOR
+azeriondigital.com, 43710415, DIRECTO
+beachfront.com, 13372, REVENDEDOR, e2541279e8e2ca4d
+beachfront.com, 14027, REVENDEDOR, e2541279e8e2ca4d
+beachfront.com, 14205, DIRECTO, e2541279e8e2ca4d
+beachfront.com, 14804, REVENDEDOR, e2541279e8e2ca4d
+beachfront.com, 4174, REVENDEDOR, e2541279e8e2ca4d
+beachfront.com, 6547, REVENDEDOR
+betweendigital.com, 41430, DISTRIBUIDOR
+betweendigital.com, 42666, DIRECTO
+bidtellect.com, 1407, DISTRIBUIDOR, 1c34aa2d85d45e93
+bizzclick, 898, DIRECTO, 7e936b1feafdaa61
+bizzclick.com, 1120, DIRECTO, 7e936b1feafdaa61
+bizzclick.com, 321, REVENDEDOR, 7e936b1feafdaa61
+brightcom.com, 20305, DIRECTO
+brightroll.com, 6836317, REVENDEDOR
+chocolateplatform.com, 16088, DIRECTO, 49a66ce31a704197
+connatix.com, 985704552967867, DIRECTO, 2af98acdee0e81ed
+connectad.io, 151, DIRECTO
+connectad.io, 203, REVENDEDOR
+connectad.io, 236, DIRECTO, 85ac85a30c93b3e5
+connectad.io, 357, DIRECTO
+connectad.io, 50, DIRECTO, 85ac85a30c93b3e5
+connectad.io, 73, DIRECTO
+consumible.com, 2001130, DIRECTO, aefcd3d2f45b5070
+contextweb.com, 548938, DIRECTO, 89ff185a4c4e857c
+contextweb.com, 558355, DISTRIBUIDOR
+contextweb.com, 558511, DISTRIBUIDOR
+contextweb.com, 560269, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560288, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560382, DISTRIBUIDOR
+contextweb.com, 560489, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560496, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560520, DISTRIBUIDOR
+contextweb.com, 560606, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560700, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560859, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 560921, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561118, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561340, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561561, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561910, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561913, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561954, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561987, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 561998, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 562060, DIRECTO, 89ff185a4c4e857c
+contextweb.com, 562145, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 562258, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 562406, DIRECTO, 89ff185a4c4e857c
+Contextweb.com, 562448, DISTRIBUIDOR, 89ff185a4c4e857c
+contextweb.com, 562499, DISTRIBUIDOR, 89ff185a4c4e857c
+Contextweb.com, 562615, DISTRIBUIDOR, 89ff185a4c4e857c
+conversantmedia.com, 100032, DISTRIBUIDOR, 03113cd04947736d
+conversantmedia.com, 100066, DIRECTO, 03113cd04947736d
+conversantmedia.com, 100112, DIRECTO, 03113cd04947736d
+conversantmedia.com, 100141, DIRECTO
+conversantmedia.com, 100195, DIRECTO, 03113cd04947736d
+conversantmedia.com, 100265, DISTRIBUIDOR, 03113cd04947736d
+conversantmedia.com, 100270, DISTRIBUIDOR, 03113cd04947736d
+conversantmedia.com, 100273, DIRECTO, 03113cd04947736d
+conversantmedia.com, 100308, DISTRIBUIDOR, 03113cd04947736d
+conversantmedia.com, 29686, DIRECTO, 03113cd04947736d
+conversantmedia.com, 31083, DIRECTO, 03113cd04947736d
+conversantmedia.com, 40915, DIRECTO, 03113cd04947736d
+conversantmedia.com, 41685, DIRECTO, 03113cd04947736d
+conversantmedia.com, 41996, DIRECTO, 03113cd04947736d
+cosmoshq.com, 1002, DIRECTO
+coxmt.com, 2000067907202, DISTRIBUIDOR
+coxmt.com, 2000067995202, DISTRIBUIDOR
+coxmt.com, 2000067997702, DISTRIBUIDOR
+coxmt.com, 2000068000102, REVENDEDOR
+coxmt.com, 2000068024302, DISTRIBUIDOR
+coxmt.com, 2000068026902, DIRECTO
+coxmt.com, 2000068028202, DIRECTO
+cpmstar.com, 51543, DISTRIBUIDOR
+criteo.com, 109412, DIRECTO, 9fac4a4a87c2a44f
+criteo.com, 155036, DISTRIBUIDOR
+criteo.com, 174835, DISTRIBUIDOR
+criteo.com, 3450, DISTRIBUIDOR
+criteo.com, b-059206, DISTRIBUIDOR, 9fac4a4a87c2a44f
+criteo.com, b-060278, DIRECTO, 9fac4a4a87c2a44f
+criteo.com, B-060861, DISTRIBUIDOR, 9fac4a4a87c2a44f
+criteo.com, B-061757, DIRECTO, 9fac4a4a87c2a44f
+criteo.com, b-062041, DIRECTO, 9fac4a4a87c2a44f
+criteo.com, B-062427, DIRECTO, 9fac4a4a87c2a44f
+criteo.com, B-067384, DISTRIBUIDOR, 9fac4a4a87c2a44f
+districtm.io, 100600, REVENDEDOR
+districtm.io, 100604, DIRECTO, 3fd707be9c4527c3
+districtm.io, 100750, DIRECTO
+districtm.io, 100885, REVENDEDOR
+districtm.io, 100962, DISTRIBUIDOR, 3fd707be9c4527c3
+districtm.io, 101187, DIRECTO, 3fd707be9c4527c3
+districtm.io, 101289, DIRECTO, 3fd707be9c4527c3
+districtm.io, 101540, DISTRIBUIDOR, 3fd707be9c4527c3
+districtm.io, 101639, DIRECTO, 3fd707be9c4527c3
+districtm.io, 101760, DISTRIBUIDOR, 3fd707be9c4527c3
+districtm.io, 101810, DISTRIBUIDOR, 3fd707be9c4527c3
+districtm.io, 101856, DISTRIBUIDOR, 3fd707be9c4527c3
+districtm.io, 102108, DIRECTO, 3fd707be9c4527c3
+duracionmedia.net, 22662515270, DIRECTO
+e-planning.net, 6dd3463134c6ef9b, DIRECTO, c1ba615865ed87b2
+e-planning.net, 901a809a65f984a4, REVENDEDOR, c1ba615865ed87b2
+e-planning.net, e1c7da23171391e6, DIRECTO, c1ba615865ed87b2
+EMXDGT.com, 1138, DIRECTO, 1e1d41537f7cad7f
+EMXDGT.com, 1251, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 1289, DIRECTO, 1e1d41537f7cad7f
+emxdgt.com, 1495, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 1584, DIRECTO, 1e1d41537f7cad7f
+emxdgt.com, 1701, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 1759, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 1836, DIRECTO, 1e1d41537f7cad7f
+emxdgt.com, 1889, REVENDEDOR, 1e1d41537f7cad7f
+emxdgt.com, 1918, REVENDEDOR, 1e1d41537f7cad7f
+emxdgt.com, 20, DIRECTO, 1e1d41537f7cad7f
+EMXDGT.com, 2002, DISTRIBUIDOR, 1e1d41537f7cad7f
+emxdgt.com, 2009, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 273, DISTRIBUIDOR, 1e1d41537f7cad7f
+emxdgt.com, 326, DISTRIBUIDOR, 1e1d41537f7cad7f
+EMXDGT.com, 45, DIRECTO, 1e1d41537f7cad7f
+EMXDGT.com, 485, DIRECTO, 1e1d41537f7cad7f
+EMXDGT.com, 68, DISTRIBUIDOR, 1e1d41537f7cad7f
+engagementbdr.com, 10181, REVENDEDOR
+engagementbdr.com, 10304, REVENDEDOR
+engagementbdr.com, 10475, DISTRIBUIDOR
+Eskimi.com, eas-2020000005, DISTRIBUIDOR
+freewheel.tv, 1064705, DISTRIBUIDOR
+freewheel.tv, 1119425, DISTRIBUIDOR
+freewheel.tv, 1163521, DISTRIBUIDOR
+freewheel.tv, 1164257, DISTRIBUIDOR
+freewheel.tv, 1235183, DISTRIBUIDOR
+freewheel.tv, 1235279, DISTRIBUIDOR
+freewheel.tv, 146081, DISTRIBUIDOR
+freewheel.tv, 20393, REVENDEDOR
+freewheel.tv, 24377, REVENDEDOR
+freewheel.tv, 327377, REVENDEDOR
+freewheel.tv, 33081, REVENDEDOR
+freewheel.tv, 33601, REVENDEDOR
+freewheel.tv, 435713, DISTRIBUIDOR
+freewheel.tv, 435777, DISTRIBUIDOR
+freewheel.tv, 484721, DISTRIBUIDOR
+Freewheel.tv, 741650, DISTRIBUIDOR
+freewheel.tv, 799841, DISTRIBUIDOR
+freewheel.tv, 799921, REVENDEDOR
+freewheel.tv, 872257, DISTRIBUIDOR
+freewheel.tv, 894193, DISTRIBUIDOR
+fyber.com, f2a848067b5fe77e73205e8024940cbf, REVENDEDOR
+getmediamx.com, 1220305, DIRECTO
+google.com, pub-0796790890307838, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-0978064532142215, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-1409765517756851, REVENDEDOR
+google.com, pub-1463455084986126, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-1575911585432548, DIRECTO, f08c47fec0942fa0
+google.com, pub-1789253751882305, DIRECTO, f08c47fec0942fa0
+google.com, pub-1835489473992347, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-1835e489473992347, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-1929615694373103, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-1966721192709606, DIRECTO, f08c47fec0942fa0
+google.com, pub-1968276357835282, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2011734697823029, DIRECTO, f08c47fec0942fa0
+google.com, pub-2011734697823029, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2024690810381654, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2128757167812663, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2285546921446373, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2403018226404213, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2420489985701294, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2500372977609723, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2561470205289901, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2831120411392012, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-2930805104418204, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-3565385483761681, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-3762254771375579, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-3769010358500643, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-3843611072847382, DIRECTO, f08c47fec0942fa0
+google.com, pub-3848273848634341, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-3960095709930134, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-4075894099602271, REVENDEDOR
+google.com, pub-4152552776930088, DIRECTO, f08c47fec0942fa0
+google.com, pub-4207323757133151, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-4299156005397946, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-4573231550355221, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-4673227357197067, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-4824951468046394, DIRECTO, f08c47fec0942fa0
+google.com, pub-4903453974745530, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5016155138623826, DIRECTO
+google.com, pub-5041886492880162, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5047281084957012, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5231479214411897, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5278973888786334, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5289985627731322, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5717092533913515, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5902083285302779, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-5912840019437959, DISTRIBUIDOR, f08c47fec0942fa0
+Google.com, pub-5995202563537249, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6346866704322274, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6373315980741255, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6396844742497208, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6409535612800042, DIRECTO, f08c47fec0942fa0
+google.com, pub-6512936480753445, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6552175488733768, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-6644558441501035, DIRECTO, f08c47fec0942fa0
+google.com, pub-6694481294649483, DIRECTO, f08c47fec0942fa0
+google.com, pub-7094677798399606, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-7169237679086737, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-7251365159879763, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-7363809219244122, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-7439041255533808, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-7620071422727774, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-7752612496791995, DIRECTO, f08c47fec0942fa0
+google.com, pub-7858377917172490, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-7958959566206860, DIRECTO, f08c47fec0942fa0
+google.com, pub-7995104076770938, DIRECTO, f08c47fec0942fa0
+google.com, pub-8021194315356290, DIRECTO, f08c47fec0942fa0
+google.com, pub-8172268348509349, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-8221793852898543, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-8278416939377896, DIRECTO, f08c47fec0942fa0
+google.com, pub-8309773808661346, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-8376169300140203, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-8388909051722168, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-8792829992776925, REVENDEDOR, f08c47fec0942fa0
+google.com, pub-9074816809942926, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9115524111147081, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9148265802523938, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9242135695870166, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9354448940015364, DIRECTO, f08c47fec0942fa0
+google.com, pub-9467340974789471, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9557089510405422, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9685734445476814, DISTRIBUIDOR, f08c47fec0942fa0
+google.com, pub-9959730754038026, DISTRIBUIDOR, f08c47fec0942fa0
+groundtruth.com, 107, REVENDEDOR, 81cbf0a75a5e0e9a
+gumgum.com, 11645, DISTRIBUIDOR, ffdef49475d318a9
+gumgum.com, 13457, DIRECTO, ffdef49475d318a9
+gumgum.com, 13926, DIRECTO, ffdef49475d318a9
+gumgum.com, 14141, DISTRIBUIDOR, ffdef49475d318a9
+imonomy.com, 2189, DISTRIBUIDOR
+betterdigital.com, 1010, REVENDEDOR
+mejorardigital.com, 1033, DIRECTO
+betterdigital.com, 1066, REVENDEDOR
+betterdigital.com, 1210, REVENDEDOR
+betterdigital.com, 1216, REVENDEDOR
+betterdigital.com, 1221, REVENDEDOR
+betterdigital.com, 1362, REVENDEDOR
+betterdigital.com, 1470, REVENDEDOR
+betterdigital.com, 1556, REVENDEDOR
+betterdigital.com, 1635, REVENDEDOR
+betterdigital.com, 1668, REVENDEDOR
+betterdigital.com, 1738, REVENDEDOR
+mejorardigital.com, 1790, DIRECTO
+betterdigital.com, 185, REVENDEDOR
+betterdigital.com, 1863, REVENDEDOR
+betterdigital.com, 2031, REVENDEDOR
+betterdigital.com, 2048, REVENDEDOR
+betterdigital.com, 2050, REVENDEDOR
+mejorardigital.com, 912, DIRECTO
+indexexchange.com, 175407, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 179394, DISTRIBUIDOR
+indexexchange.com, 182257, DISTRIBUIDOR
+indexexchange.com, 182961, DISTRIBUIDOR
+indexexchange.com, 183756, DISTRIBUIDOR
+indexexchange.com, 183875, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 183965, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 184914, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 185192, DISTRIBUIDOR
+indexexchange.com, 185506, DISTRIBUIDOR
+indexexchange.com, 185996, DISTRIBUIDOR
+indexexchange.com, 186046, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 186248, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 186268, DISTRIBUIDOR
+indexexchange.com, 186318, DISTRIBUIDOR
+indexexchange.com, 186329, DIRECTO
+indexexchange.com, 187454, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 187924, DIRECTO
+indexexchange.com, 187973, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 188146, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 188161, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 189458, DIRECTO
+indexexchange.com, 189529, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 189744, DISTRIBUIDOR
+indexexchange.com, 189872, DISTRIBUIDOR
+indexexchange.com, 190025, DISTRIBUIDOR
+indexexchange.com, 190243, DIRECTO
+indexexchange.com, 190549, DISTRIBUIDOR
+indexexchange.com, 190856, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 190906, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 191306, DISTRIBUIDOR
+indexexchange.com, 191497, DISTRIBUIDOR
+indexexchange.com, 191503, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 191876, DIRECTO
+indexexchange.com, 191973, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 192051, DIRECTO
+indexexchange.com, 192052, DISTRIBUIDOR
+indexexchange.com, 192106, DIRECTO
+indexexchange.com, 192143, DISTRIBUIDOR
+indexexchange.com, 192311, DIRECTO
+indexexchange.com, 192393, DISTRIBUIDOR
+indexexchange.com, 192410, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 192450, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 192806, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 193069, DISTRIBUIDOR
+indexexchange.com, 193091, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 193192, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 193216, DIRECTO
+indexexchange.com, 193397, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 194364, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 194558, DISTRIBUIDOR
+indexexchange.com, 194590, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 194730, DISTRIBUIDOR
+indexexchange.com, 195225, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 195491, DISTRIBUIDOR, 50b1c356f2c5c8fc
+indexexchange.com, 196426, DIRECTO, 50b1c356f2c5c8fc
+indexexchange.com, 196713, DIRECTO
+indexexchange.com, 197258, DISTRIBUIDOR
+infolinks.com, 3297744, DISTRIBUIDOR
+infolinks.com, 3300706, DISTRIBUIDOR
+infolinks.com, 3301753, DISTRIBUIDOR
+infolinks.com, 3302258, DISTRIBUIDOR
+infolinks.com, 3341917, DISTRIBUIDOR
+inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, REVENDEDOR, 83e75a7ae333ca9d
+ironsrc.com, 608febaf84a3a300011accfa, DIRECTO
+lemmatechnologies.com, 399, DISTRIBUIDOR, 7829010c5bebd1fb
+lijit.com, 230102, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 230102-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 231317, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 244287, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 244287-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 248396, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 248396-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 249425, DISTRIBUIDOR
+lijit.com, 252623, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 252623-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 257429, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 257429-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 260380, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 268479, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 268479, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 268479-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 268479-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 268876, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 270524, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 273644, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 273657, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 274688-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 276595, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 276595-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 277115, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 277115-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 280159, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 280159-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 284594, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 284594-eb, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 310770, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 327078, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 327078-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 374814, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 374814-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 375328, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 376385, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 376385-eb, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 57813, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 62110, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 62299, DIRECTO, fafdf38b16bf6b2b
+lijit.com, 62299, DISTRIBUIDOR, fafdf38b16bf6b2b
+lijit.com, 62299-eb, DIRECTO, fafdf38b16bf6b2b
+limpid.tv, 920305, DIRECTO
+lkqd.com, 267, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.com, 430, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.com, 470, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.net, 430, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.net, 437, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.net, 450, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.net, 470, DISTRIBUIDOR, 59c49fa9598a0117
+lkqd.net, 602, DISTRIBUIDOR, 59c49fa9598a0117
+lockerdome.com, 11490131827973120, DIRECTO
+loopme.com, 11013, DIRECTO, 6c8d5f95897a5a3b
+loopme.com, 11058, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 11172, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 11362, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 11378, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 11405, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 5679, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, 9722, DISTRIBUIDOR, 6c8d5f95897a5a3b
+loopme.com, s-2411, DISTRIBUIDOR, 6c8d5f95897a5a3b
+luponmedia.com, 1994505, DIRECTO
+Media.net, 8CUBCB617, DIRECTO
+media.net, 8CUKY1173, DISTRIBUIDOR
+Media.net, 8CUL1AWYD, DIRECTO
+Media.net, 8CUO884B5, DIRECTO
+Media.net, 8CUQ6928Q, DISTRIBUIDOR
+Media.net, 8PR6YK195, DISTRIBUIDOR
+mintegral.com, 10043, DISTRIBUIDOR, 0aeed750c80d6423
+mobfox.com, 45499, DISTRIBUIDOR
+mobfox.com, 74240, DISTRIBUIDOR
+mobfox.com, 82187, DISTRIBUIDOR, 5529a3d1f59865be
+my6sense.com, 9732, DISTRIBUIDOR
+nativo.com, 5677, DIRECTO
+nativo.com, 5752, DIRECTO, 59521ca7cc5e9fee
+nobid.io, 22100091147, DISTRIBUIDOR
+nobid.io, 22579573251, DISTRIBUIDOR
+nobid.io, 22662515270, DIRECTO
+oath.com, 5702, DISTRIBUIDOR
+onetag.com, 2a897e3f18e6769, DIRECTO
+onetag.com, 436257282a0d460, DIRECTO
+onetag.com, 572a470226457b8, REVENDEDOR
+onetag.com, 59817ac704fe3e8, DIRECTO
+onetag.com, 598ce3ddaee8c90, REVENDEDOR
+onetag.com, 59a18369e249bfb, DIRECTO
+onetag.com, 5d49f482552c9b6, REVENDEDOR
+onetag.com, 5d4e109247a89f6, DIRECTO
+onetag.com, 61d88450bdb25bc, REVENDEDOR
+onetag.com, 62499636face9dc, DIRECTO
+onetag.com, 62499636face9dc-OB, DIRECTO
+onetag.com, 642455ab8f71fec, DIRECTO
+onetag.com, 664e107d9f2b748, REVENDEDOR
+onetag.com, 66d66dec41ef0cc, REVENDEDOR
+onetag.com, 68827c0f1833c68, REVENDEDOR
+onetag.com, 68827c0f1833c68-OB, DISTRIBUIDOR
+onetag.com, 694e68b73971b58, DIRECTO
+onetag.com, 69f48c2160c8113, DIRECTO
+onetag.com, 6b859b96c564fbe, REVENDEDOR
+onetag.com, 71eac8c50a03810, DIRECTO
+onetag.com, 72b20ec05ea6e86, DIRECTO
+onetag.com, 752b69391c31288, DIRECTO
+onetag.com, 75753f1ebcc343c, REVENDEDOR
+onetag.com, 770a440e65869c2, REVENDEDOR
+onomagic.com, 203051, DIRECTO
+openx.com, 537100188, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537120563, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537120960, REVENDEDOR
+openx.com, 537121708, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537122561, REVENDEDOR
+openx.com, 537125356, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537140488, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537141219, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537143344, REVENDEDOR
+openx.com, 537144445, DIRECTO, 6a698e2ec38604c6
+openx.com, 537145117, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537149485, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537149888, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537150004, DIRECTO, 6a698e2ec38604c6
+openx.com, 537153209, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 537153564, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 538929384, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 538959099, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539154393, REVENDEDOR
+openx.com, 539372716, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539392223, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539496816, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539624483, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539625136, REVENDEDOR
+openx.com, 539699341, DIRECTO, 6a698e2ec38604c6
+openx.com, 539924617, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 539966405, DIRECTO, 6a698e2ec38604c6
+openx.com, 540031703, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540191398, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540226160, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540274407, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540298543, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540310748, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540322758, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540384936, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540393169, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540406323, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540536633, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540603695, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540606043, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540634634, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540679900, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540709535, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540796952, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540804929, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540860183, DIRECTO, 6a698e2ec38604c6
+openx.com, 540866936, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540899591, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 540995201, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541031350, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541053221, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541072983, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541073624, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541144890, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541177116, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541177349, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 541180797, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 542117415, DISTRIBUIDOR, 6e698e2ec38604c6
+openx.com, 542518102, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 543174347, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 543731411, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 543870158, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 544021216, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 544104089, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 556392471, DISTRIBUIDOR, 6a698e2ec38604c6
+openx.com, 83499, DISTRIBUIDOR
+opera.com, pub4903235437888, DIRECTO, 55a0c5fd61378de3
+opera.com, pub5688296365760, DIRECTO, 55a0c5fd61378de3
+otm-r.com, 23, DISTRIBUIDOR
+outbrain.com, 005e8b586f4258831a0bdd4ca00ecf9823, DIRECTO
+outbrain.com, 006ca10119b62fceba0024c827780cdc78, REVENDEDOR
+outbrain.com, 01a755b08c8c22b15d46a8b753ab6955d4, DIRECTO
+pixfuture.com, 4516, DIRECTO
+pixfuture.com, 86, DIRECTO
+plataforma.videologygroup.com, 2982, DISTRIBUIDOR
+pokkt.com, 7606, DISTRIBUIDOR, c45702d9311e25fd
+projectagora.com, 100489, DIRECTO
+projectagora.com, 101038, REVENDEDOR
+publishers.teads.tv, 12888, REVENDEDOR
+publishers.teads.tv, 13183, REVENDEDOR
+pubmatic.com, 137711, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 148803, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 150561, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 154037, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 155495, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 155967, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156030, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156077, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156078, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156084, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156136, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156181, DISTRIBUIDOR
+pubmatic.com, 156212, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156262, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156307, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156313, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156319, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 156325, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156344, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156377, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156378, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156383, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156400, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156423, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156439, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156458, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156498, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156500, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156509, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156538, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 156547, DISTRIBUIDOR
+pubmatic.com, 156557, DISTRIBUIDOR
+pubmatic.com, 156592, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156631, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156674, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156700, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156736, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156813, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 156872, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156917, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156918, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156971, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 156983, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157102, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157150, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157163, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157310, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157335, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157367, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 157384, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157411, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157599, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157752, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157840, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157841, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157866, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157904, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 157962, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158060, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158100, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158127, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158145, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158154, DISTRIBUIDOR, 5d62403b186f2ace
+Pubmatic.com, 158270, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158355, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158481, DIRECTO, 5d62403b186f2ace
+Pubmatic.com, 158565, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158569, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158615, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158648, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158723, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158810, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158826, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158853, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 158984, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159078, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 159110, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159117, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 159175, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159277, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159463, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159477, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159496, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159668, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 159760, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160006, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160020, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160065, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160094, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160096, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160114, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160177, DIRECTO, 5d62403b186f2ace
+Pubmatic.com, 160295, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160350, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160453, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160648, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160842, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160888, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160925, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 160993, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161311, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161332, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161335, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161562, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161593, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 161598, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 50758, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 55990, DISTRIBUIDOR, 5d62403b186f2ace
+Pubmatic.com, 60809, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 62483, DISTRIBUIDOR
+pubmatic.com, 81564, DIRECTO, 5d62403b186f2ace
+pubmatic.com, 92509, DISTRIBUIDOR, 5d62403b186f2ace
+pubmatic.com, 93915, DISTRIBUIDOR
+pubnative.net, 1006576, DISTRIBUIDOR, d641df8625486a7b
+pubnative.net, 1007284, DISTRIBUIDOR, d641df8625486a7b
+pubnative.net, 1007285, DISTRIBUIDOR, d641df8625486a7b
+pubnative.net, 1007286, DISTRIBUIDOR, d641df8625486a7b
+reforge.in, 409, DIRECTO
+reforge.in, 83, DIRECTO
+reklamstore.com, 1050164, DIRECTO
+rekmob.com, 50164, DIRECTO
+revcontent.com, 55955, DIRECTO
+revcontent.com, 76611, DISTRIBUIDOR
+ritmone.com, 1001, REVENDEDOR
+ritmone.com, 1022945102, DIRECTO, a670c89d4a324e47
+ritmone.com, 1059622079, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1149317856, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1166984029, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1222734754, DIRECTO, a670c89d4a324e47
+ritmone.com, 1295892552, DIRECTO, a670c89d4a324e47
+ritmone.com, 1346664749, DIRECTO, a670c89d4a324e47
+ritmone.com, 1352466146, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 144927031, DIRECTO, a670c89d4a324e47
+ritmone.com, 144927031, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1561643954, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1654642120, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 1767353092, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 2147483647, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 2221906906, DIRECTO, a670c89d4a324e47
+ritmone.com, 2439829435, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 2497923403, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 2564526802, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 274200170, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3010032404, DIRECTO, a670c89d4a324e47
+ritmone.com, 3149050999, DIRECTO, a670c89d4a324e47
+ritmone.com, 3169196794, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3350674472, DIRECTO, a670c89d4a324e47
+ritmone.com, 3463482822, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3611299104, REVENDEDOR
+ritmone.com, 367782854, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3736557092, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3736940343, DIRECTO, a670c89d4a324e47
+ritmone.com, 3880497124, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 3948367200, REVENDEDOR, a670c89d4a324e47
+ritmone.com, 4220119312, DIRECTO, a670c89d4a324e47
+ritmone.com, 78519861, REVENDEDOR
+ritmone.com, 871930104, DIRECTO, a670c89d4a324e47
+ritmone.com, 905992537, REVENDEDOR, a670c89d4a324e47
+richaudience.com, 06EhCbcfZK, DIRECTO
+richaudience.com, 1BTOoaD22a, REVENDEDOR
+richaudience.com, 1ru8dKmJJV, DIRECTO
+richaudience.com, 25BiP9IMgN, DIRECTO
+richaudience.com, mA6M9Pbvib, DIRECTO
+risecodes.com, 608febaf84a3a300011accfa, DIRECTO
+risecodes.com, 608fee2f84a3a300011acd3f, DIRECTO
+roimediaconsultants.com, 20, REVENDEDOR
+rubicon.com, 14410, DISTRIBUIDOR
+rubiconproject.com, 11006, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 11498, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 11740, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 12186, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 12398, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 13132, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 13344, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 13510, DIRECTO
+rubiconproject.com, 13702, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 13856, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 13894, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 13918, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 14410, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 14558, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 15268, DISTRIBUIDOR
+rubiconproject.com, 15478, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 156042, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 16114, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 16156, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 16414, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 16698, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 16720, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17054, DISTRIBUIDOR
+rubiconproject.com, 17070, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17130, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17184, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 17210, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17250, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17262, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 17270, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17346, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17544, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17608, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 17632, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 17960, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18008, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18020, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18222, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18294, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18304, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18694, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 18890, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 19116, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19396, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19398, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19564, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19652, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19668, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19724, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 19814, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 20266, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 20322, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 20416, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 20736, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 20744, DISTRIBUIDOR, 0bfd66d529a55807
+Rubiconproject.com, 20848, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21032, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21034, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21150, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 21152, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 21310, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21526, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21642, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 21938, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 22328, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 22330, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 22412, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 22884, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 23280, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 23404, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 23844, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 23876, DISTRIBUIDOR, 0bfd66d529a55807
+rubiconproject.com, 24022, DIRECTO, 0bfd66d529a55807
+rubiconproject.com, 8861, DISTRIBUIDOR, 0bfd66d529a55807
+saambaa.com, 71021020, DIRECTO
+saambaa.com, 71021043, DIRECTO
+saambaa.com, 72000509, DIRECTO
+sfx.freewheel.tv, 1025, DISTRIBUIDOR
+sharethrough.com, 0d60edd5, REVENDEDOR
+sharethrough.com, 226d318d, DIRECTO, d53b998a7bd4ecd2
+sharethrough.com, 5926d422, DISTRIBUIDOR, d53b998a7bd4ecd2
+sharethrough.com, 62beb9db, DIRECTO, d53b998a7bd4ecd2
+sharethrough.com, 7144eb80, REVENDEDOR
+sharethrough.com, 8a03a67b, DIRECTO, d53b998a7bd4ecd2
+sharethrough.com, aab3fb7d, REVENDEDOR, d53b998a7bd4ecd2
+sharethrough.com, b18911a2, DIRECTO, d53b998a7bd4ecd2
+sharethrough.com, Zn8RTduX, DIRECTO, d53b998a7bd4ecd2
+smaato.com, 1100000579, REVENDEDOR
+smaato.com, 1100033117, REVENDEDOR
+smaato.com, 1100037086, REVENDEDOR
+smaato.com, 1100042823, DIRECTO, 07bcf65f187117b4
+smaato.com, 1100044045, DISTRIBUIDOR, 07bcf65f187117b4
+smaato.com, 1100044650, DISTRIBUIDOR, 07bcf65f187117b4
+smaato.com, 1100047713, DISTRIBUIDOR, 07bcf65f187117b4
+smartadserver.com, 1097, DIRECTO
+smartadserver.com, 1316, DISTRIBUIDOR
+smartadserver.com, 1692, DISTRIBUIDOR
+smartadserver.com, 1743, DISTRIBUIDOR, 060d053dcf45cbf3
+smartadserver.com, 1963, DISTRIBUIDOR
+smartadserver.com, 1999, DISTRIBUIDOR
+smartadserver.com, 2281, DISTRIBUIDOR
+smartadserver.com, 2289, DISTRIBUIDOR
+smartadserver.com, 2441, DISTRIBUIDOR
+smartadserver.com, 2491, DISTRIBUIDOR
+smartadserver.com, 2597, DISTRIBUIDOR
+smartadserver.com, 2640, DISTRIBUIDOR
+smartadserver.com, 2951, DISTRIBUIDOR
+smartadserver.com, 2995, DISTRIBUIDOR
+smartadserver.com, 3056, DISTRIBUIDOR
+smartadserver.com, 3136, DISTRIBUIDOR
+smartadserver.com, 3276, DISTRIBUIDOR
+smartadserver.com, 3277, DISTRIBUIDOR
+smartadserver.com, 3374, DISTRIBUIDOR
+smartadserver.com, 3439, DISTRIBUIDOR
+smartadserver.com, 3447, DIRECTO
+smartadserver.com, 3459, DISTRIBUIDOR
+smartadserver.com, 3503, DISTRIBUIDOR
+smartadserver.com, 3668, DISTRIBUIDOR
+smartadserver.com, 3713, DISTRIBUIDOR
+smartadserver.com, 3820, DISTRIBUIDOR
+smartadserver.com, 4012, DISTRIBUIDOR
+smartadserver.com, 4016, DISTRIBUIDOR
+smartadserver.com, 4071, DISTRIBUIDOR
+smartadserver.com, 4073, DISTRIBUIDOR
+smartadserver.com, 4074, DISTRIBUIDOR
+smartadserver.com, 4102, DISTRIBUIDOR
+smartadserver.com, 4111, DISTRIBUIDOR
+smartadserver.com, 4125, DISTRIBUIDOR, 060d053dcf45cbf3
+smartadserver.com, 4140, DISTRIBUIDOR
+smartadserver.com, 4144, DISTRIBUIDOR
+smartadserver.com, 4253, DISTRIBUIDOR
+smartadserver.com, 4274, DISTRIBUIDOR
+smartadserver.com, 4283, DIRECTO
+smartyads.com, 100034, DISTRIBUIDOR, fd2bde0ff2e62c5d
+smartyads.com, 284, DISTRIBUIDOR
+smartyads.com, 523, DISTRIBUIDOR, fd2bde0ff2e62c5d
+smilewanted.com, 2864, DIRECTO
+smilewanted.com, 3392, REVENDEDOR
+sonobi.com, 06976a737a, DIRECTO
+sonobi.com, 0e0a64d7d3, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 192ecdea01, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 263c622435, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 37dd19ad4a, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 3f7e72fd0f, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 48bff1eed1, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 4a289cdd79, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 532a2a2878, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 6e5cfb5420, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 7ad1b9f952, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 7b37f8ccbc, DISTRIBUIDOR, d1a215d9eb5aee9e
+sonobi.com, 7f5fa520f8, REVENDEDOR, d1a215d9eb5aee9e
+sonobi.com, 8b725e5cd3, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, 8efb591506, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, a2675972d7, DIRECTO, d1a215d9eb5aee9e
+sonobi.com, e55fb5d7c2, DIRECTO, d1a215d9eb5aee9e
+sovrn.com, 230102, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 231317, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 244287, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 245955, DISTRIBUIDOR
+sovrn.com, 248396, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 249425, DISTRIBUIDOR
+sovrn.com, 252623, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 257429, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 257611, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 260380, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 268479, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 268876, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 270524, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 273644, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 273657, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 276595, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 277115, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 280159, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 284585, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 284594, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 310770, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 327078, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 374814, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 375328, DIRECTO, fafdf38b16bf6b2b
+sovrn.com, 376385, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 62110, DISTRIBUIDOR, fafdf38b16bf6b2b
+sovrn.com, 62299, DIRECTO, fafdf38b16bf6b2b
+sparcmedia.com, 320305, DIRECTO
+spotim.market, 4446666, DIRECTO, 077e5f709d15bdbb
+spotx.tv, 108706, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 108933, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 136839, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 147949, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 165877, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 173175, DIRECTO
+spotx.tv, 173177, DIRECTO
+spotx.tv, 178357, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 181067, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 202100, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 211156, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 212457, DISTRIBUIDOR
+spotx.tv, 212457, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 218443, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 230037, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 238936, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 239904, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 269160, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 270977, DIRECTO, 7842df1d2fe2db34
+spotx.tv, 280397, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 285547, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 304965, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 307420, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 315414, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 71451, DISTRIBUIDOR
+spotx.tv, 72878, DISTRIBUIDOR
+spotx.tv, 74999, DISTRIBUIDOR, 7842df1d2fe2db34
+spotx.tv, 94794, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 108706, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 108933, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 136839, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 147949, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 152198, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 165877, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 173175, DIRECTO
+spotxchange.com, 173177, DIRECTO
+spotxchange.com, 178357, DISTRIBUIDOR, 7842df1d2fe2db34
+Spotxchange.com, 181067, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 202100, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 211156, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 212457, DISTRIBUIDOR
+spotxchange.com, 218443, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 225721, DISTRIBUIDOR
+spotxchange.com, 230037, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 238936, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 239904, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 269160, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 270977, DIRECTO, 7842df1d2fe2db34
+spotxchange.com, 280397, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 285547, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 304965, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 307420, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 315414, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 74999, DISTRIBUIDOR, 7842df1d2fe2db34
+spotxchange.com, 94794, DISTRIBUIDOR, 7842df1d2fe2db34
+springserve.com, 1, REVENDEDOR, a24eb641fc82e93d
+springserve.com, 1146, DIRECTO, a24eb641fc82e93d
+springserve.com, 1238, DIRECTO, a24eb641fc82e93d
+springserve.com, 278, REVENDEDOR, a24eb641fc82e93d
+springserve.com, 316, REVENDEDOR, a24eb641fc82e93d
+springserve.com, 445, REVENDEDOR, a24eb641fc82e93d
+springserve.com, 686, DIRECTO, a24eb641fc82e93d
+ssp.decenterads.com, 368, DIRECTO
+stroeer.com, 17938, DIRECTO
+sunmedia.tv, 101, DIRECTO
+sunmedia.tv, 455be357-ad46-4f10-8872-701656980003, DIRECTO, 24794f6
+sunmedia.tv, 4d851cea-6c8f-4489-8844-9e29bfd95489, DIRECTO
+sunmedia.tv, b27878b7-6b9e-47c6-9825-c06baa2f7795, DIRECTO
+supply.colossusssp.com, 326, DIRECTO, 6c5b49d96ec1b458
+synacor.com, 81591, DISTRIBUIDOR
+synacor.com, 81998, DIRECTO, e108f11b2cdf7d5b
+synacor.com, 82101, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82151, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82171, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82290, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82291, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82377, DIRECTO, e108f11b2cdf7d5b
+synacor.com, 82401, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82423, DISTRIBUIDOR, e108f11b2cdf7d5b
+synacor.com, 82461, DISTRIBUIDOR, e108f11b2cdf7d5b
+taboola.com, 1196805, DIRECTO, c228e6794e811952
+tappx.com, 33338, DISTRIBUIDOR, 9f375a07da0318ec
+teas.tv, 13877, DIRECTO, 15a9c44f6d26cbe1
+teads.tv, 15429, DISTRIBUIDOR, 15a9c44f6d26cbe1
+telaria.com, cd009, DISTRIBUIDOR, 1a4e959a1b50034a
+telaria.com, rnl7f-vyklc, DISTRIBUIDOR, 1a4e959a1b50034a
+telaria.com, vtrdn-ysjam, DIRECTO, 1a4e959a1b50034a
+themediagrid.com, 2RT75Y, DIRECTO, 35d5010d7789b49d
+themediagrid.com, IRK975, REVENDEDOR, 35d5010d7789b49d
+themediagrid.com, JTQKMP, REVENDEDOR, 35d5010d7789b49d
+themediagrid.com, RYIDPE, DIRECTO, 35d5010d7789b49d
+themediagrid.com, VIY354, DIRECTO, 35d5010d7789b49d
+themoneytizer.com, 21982, DIRECTO
+tremorhub.com, 4cywq-a04wk, REVENDEDOR, 1a4e959a1b50034a
+tremorhub.com, cd009, DISTRIBUIDOR, 1a4e959a1b50034a
+tremorhub.com, cdgfn, REVENDEDOR, 1a4e959a1b50034a
+tremorhub.com, cpu32-92xut, DISTRIBUIDOR, 1a4e959a1b50034a
+tremorhub.com, q017o-78mlk, REVENDEDOR, 1a4e959a1b50034a
+tremorhub.com, vtrdn-wjdav, DIRECTO, 1a4e959a1b50034a
+tremorhub.com, vtrdn-ysjam, DIRECTO, 1a4e959a1b50034a
+tremorhub.com, z87wm, REVENDEDOR, 1a4e959a1b50034a
+triplelift.com, 10522, DISTRIBUIDOR, 6c33edb13117fd86
+triplelift.com, 2792, DISTRIBUIDOR, 6c33edb13117fd86
+triplelift.com, 8495, DISTRIBUIDOR, 6c33edb13117fd86
+triplelift.com, 8683, DIRECTO, 6c33edb13117fd86
+triplelift.com, 9733, DIRECTO, 6c33edb13117fd86
+ucfunnel.com, par-488A3E6BD8D997D0ED8B3BD34D8BA4B, REVENDEDOR
+ucfunnel.com, pub-2736DD97D4BD2E7DC8AD6967ED73DE98, DIRECTO
+ucfunnel.com, pub-627D9323BEAE272317BAD8A3A47394E, DIRECTO
+undertone.com, 3817, DISTRIBUIDOR
+undertone.com, 3861, DIRECTO
+undertone.com, 4009, DIRECTO
+valo.ai, e4dffdb0d6a5e665b9f98e11abf61fa7, DIRECTO
+vertamedia.com, 35546, DISTRIBUIDOR, 7de89dc7742b5b11
+verve.com, 15503, DISTRIBUIDOR, 0c8f5958fc2d6270
+vi.ai, 276242550045440, REVENDEDOR
+vi.ai, 573653530726003, REVENDEDOR
+vidazoo.com, 1773068026, DISTRIBUIDOR, b6ada874b4d7d0b2
+video.unrulymedia.com, 1022945102, DIRECTO
+video.unrulymedia.com, 1149317856, REVENDEDOR
+video.unrulymedia.com, 1222734754, DIRECTO
+video.unrulymedia.com, 1295892552, DIRECTO
+video.unrulymedia.com, 1346664749, DIRECTO
+video.unrulymedia.com, 1352466146, REVENDEDOR
+video.unrulymedia.com, 144927031, DIRECTO
+video.unrulymedia.com, 1561643954, DISTRIBUIDOR, a670c89d4a324e47
+video.unrulymedia.com, 2147483647, DISTRIBUIDOR, a670c89d4a324e47
+video.unrulymedia.com, 2221906906, DIRECTO
+video.unrulymedia.com, 274200170, DISTRIBUIDOR, a670c89d4a324e47
+video.unrulymedia.com, 3010032404, REVENDEDOR
+video.unrulymedia.com, 3149050999, DIRECTO
+video.unrulymedia.com, 3169196794, REVENDEDOR
+video.unrulymedia.com, 3350674472, DIRECTO
+video.unrulymedia.com, 3463482822, REVENDEDOR
+video.unrulymedia.com, 367782854, REVENDEDOR
+video.unrulymedia.com, 3736557092, REVENDEDOR
+video.unrulymedia.com, 3736940343, DIRECTO
+video.unrulymedia.com, 3948367200, REVENDEDOR
+video.unrulymedia.com, 4220119312, DIRECTO
+video.unrulymedia.com, 871930104, DIRECTO
+video.unrulymedia.com, 905992537, DISTRIBUIDOR, a670c89d4a324e47
+vidoomy.com, 2252369, DIRECTO
+vidoomy.com, 61464, DIRECTO
+viewdeos.com, 324973, DIRECTO
+viewdeos.com, 626668a3cfb91a7aa75bc11d, DIRECTO
+vindicosuite.com, 6621, DISTRIBUIDOR
+voicemediagroup.com, 9262, DIRECTO
+webeyemob.com, 70080, DISTRIBUIDOR
+whidey.com, 203055, DIRECTO
+xad.com, 240, DISTRIBUIDOR, 81cbf0a75a5e0e9a
+xad.com, 958, DISTRIBUIDOR, 81cbf0a75a5e0e9a
+xandr.com, 11429, DISTRIBUIDOR, f5ab79cb980f11d1
+xandr.com, 1199, DISTRIBUIDOR
+xandr.com, 12701, DISTRIBUIDOR, f5ab79cb980f11d1
+xandr.com, 3251, DISTRIBUIDOR
+xandr.com, 8804, REVENDEDOR, f5ab79cb980f11d1
+yahoo.com, 49648, DISTRIBUIDOR
+yahoo.com, 55029, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 55080, DIRECTO
+yahoo.com, 55104, DIRECTO, e1a5b5b6e3255540
+yahoo.com, 55248, DIRECTO
+yahoo.com, 55317, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 55771, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 56707, DIRECTO
+yahoo.com, 56860, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57004, DISTRIBUIDOR
+yahoo.com, 57289, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57403, DISTRIBUIDOR
+Yahoo.com, 57545, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57554, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57695, DIRECTO, e1a5b5b6e3255540
+yahoo.com, 57758, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57857, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 57872, DIRECTO
+Yahoo.com, 57992, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 58723, DISTRIBUIDOR
+yahoo.com, 58905, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 59080, DISTRIBUIDOR
+yahoo.com, 59194, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 59244, DISTRIBUIDOR, e1a5b5b6e3255540
+yahoo.com, 59261, DISTRIBUIDOR
+yahoo.com, 59388, DIRECTO
+yahoo.com, 59608, DISTRIBUIDOR, e1a5b5b6e3255540
+yandex.com, 91473013, DIRECTO
+yeyemobi.com, 5135322, REVENDEDOR
+yieldmo, 2676856567361380607, DIRECTO
+yieldmo, 2723393041019642186, DIRECTO
+yieldmo, 2834292204858450860, DIRECTO
+Yieldmo.com, 2676856567361380607, DIRECTO
+yieldmo.com, 2723393041019642186, DIRECTO
+yieldmo.com, 2724005447462757095, REVENDEDOR
+yieldmo.com, 2731991718797714293, DIRECTO
+yieldmo.com, 2754490424016969782, REVENDEDOR
+yieldmo.com, 2757543169808605705, REVENDEDOR
+yieldmo.com, 2807970144171533194, REVENDEDOR
+yieldmo.com, 2834292204858450860, DIRECTO
+yieldmo.com, 2898690995346416534, REVENDEDOR
+yieldmo.com, 2900260163292176711, REVENDEDOR
+yieldnexus.com, 96204, DISTRIBUIDOR
+yldbt.com, 5b522cc167f6b300b89dc6d3, REVENDEDOR, cd184cb30abaabb5
