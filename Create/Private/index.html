@@ -155,14 +155,14 @@
                     <label for="Name" class="form-label">Account Name ( Optional )</label>
                     <label style="display: none;" for="Error" id="ClientErrorName" class="form-label">The account name is invalid</label>
 
-                    <input  type="input" class="form-control" name="Name" id="Nombre" aria-describedby="">
+                    <input  type="input" class="form-control" id="Nombre" aria-describedby="">
                 </div>
 
                 <div class="mb-3">
                     <label for="Phone" class="form-label">Game Name ( Optional )</label>
                     <label style="display: none;" for="Error" id="ClientErrorPhone" class="form-label">The name contains invalid characters</label>
 
-                    <input  type="input" class="form-control" name="Phone" id="GameName" aria-describedby="">
+                    <input  type="input" class="form-control" id="GameName" aria-describedby="">
                 </div>
                     <label class="control-label " for="message">Game description ( Optional )</label>
                     <label style="display: none;" for="Error" id="ClientErrorMeesage" class="form-label">The description contains invalid characters</label>
@@ -173,6 +173,7 @@ Have fun! 🎉💥</textarea>
   <input style="cursor: pointer;" type="checkbox" class="custom-control-input" id="defaultIndeterminate2">
   <label style="user-select: none; cursor: pointer;" class="custom-control-label" for="defaultIndeterminate2">Allow the game to be shared on our page</label>
 </div>
+<div style="margin-top: 8px; justify-content: center; align-items: center;" id="recaptcha3"></div>
 
 
   <button id="primary" type="submit" class="btn btn-primary">Generate Now</button>
@@ -391,14 +392,16 @@ Have fun! 🎉💥</textarea>
     </div>
   </div>
 </footer>
+
 <!-- footer section -->
-<!-- footer section -->
+  <!-- jQery -->
+  <script src="/js/jquery-3.4.1.min.js"></script>
+
 <script type="text/javascript">
   const home = false
 </script>
 <script src="/js/home.js"></script>
-  <!-- jQery -->
-  <script src="/js/jquery-3.4.1.min.js"></script>
+
   <!-- popper js -->
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
   </script>
