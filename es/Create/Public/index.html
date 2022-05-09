@@ -3,7 +3,7 @@
 
 <head>
   <!-- Basic -->
-  <title>Crear Condo</title>
+  <title>Juegos Condo Publicos</title>
   <link rel="icon" type="image/png" href="/images/logo.png" sizes="20x20">
   <script src='https://www.google.com/recaptcha/api.js'></script>
   <meta charset="utf-8" />
@@ -11,7 +11,7 @@
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
-  <meta name="keywords" content="Crear condo, Juegos Condo, Roblox Condo, roblox condo games, juegos en español de roblox, roblox condo español, robloc chill, roblox español condo, roblox es, roblox juegos condo, juegos condo de roblox, juegos en español condo">
+  <meta name="keywords" content="Juegos Condo, Roblox Condo, roblox condo games, juegos en español de roblox, roblox condo español, robloc chill, roblox español condo, roblox es, roblox juegos condo, juegos condo de roblox, juegos en español condo">
   <meta name="description" content="Aquí encontraras los mejores juegos condo en español de roblox, crea, juega y personaliza juegos condo de roblox en español!" />
   <meta name="author" content="Diego Miguel" />
   <meta name="referrer" content="no-referrer">
@@ -35,170 +35,281 @@
 
 </head>
 
-
-<body class="sub_page">
-  <div class="hero_area">
-    <div class="bg-box">
-      <!--<img src="/images/.jpg" alt="">-->
-    </div>
-    <!-- header section strats -->
-    <header class="header_section">
-      <div class="container">
-        <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" onclick="window.open('/', '_self')">
-            <span>
-              Ebic Condos
-            </span>
-          </a>
-          <p style="display: none;" id="Brands"></p>
-          <p style="display: none;" id="List"></p>
-          <p style="display: none;" id="Games"></p>	
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class=""> </span>
-          </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav  mx-auto ">
-              <li class="nav-item">
-                <a class="nav-link" onclick="window.open('/es', '_self')">Inicio</a>
-              </li>
-              <li class="nav-item active">
-                <a class="nav-link" onclick="window.open('/es/Create', '_self')">Crear <span class="sr-only">(current)</span> </a>
-              </li>
-
-              <li class="nav-item">
-                <a class="nav-link" onclick="window.open('/HeadAdmin', '_self')">Tienda</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" onclick="window.open('/es/Chat', '_self')">Chat</a>
-              </li>
-              
-            </ul>
-            
-            <div class="user_option">
-             
-                <a onclick="window.open('https://bit.ly/EbicDiscord', '_self')" class="Join_Discord">
-                  <i class="fab fa-discord" aria-hidden="true"></i>
-                  Discord
-                </a>
-              <a onclick="FindGame()" class="Play_Now">
-                <i class="fa-solid fa-play"></i>
-                Jugar
-              </a>
-            </div>
-          </div>
-        </nav>
+  <body class="sub_page">
+    <div class="hero_area">
+      <div class="bg-box">
+        <!--<img src="/images/.jpg" alt="">-->
       </div>
-    </header>
-    <!-- end header section -->
-  </div>
+      <!-- header section strats -->
+      <header class="header_section">
+        <div class="container">
+          <nav class="navbar navbar-expand-lg custom_nav-container ">
+            <a class="navbar-brand" onclick="window.open('/', '_self')">
+              <span>
+                Ebic Condos
+              </span>
+            </a>
+            <p style="display: none;" id="Brands"></p>
+            <p style="display: none;" id="List"></p>
+            <p style="display: none;" id="Games"></p>	
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class=""> </span>
+            </button>
+  
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav  mx-auto ">
+                <li class="nav-item">
+                  <a class="nav-link" onclick="window.open('/es', '_self')">Inicio</a>
+                </li>
+                <li class="nav-item active">
+                  <a class="nav-link" onclick="window.open('/es/Create', '_self')">Crear <span class="sr-only">(current)</span> </a>
+                </li>
+  
+                <li class="nav-item">
+                  <a class="nav-link" onclick="window.open('/HeadAdmin', '_self')">Tienda</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" onclick="window.open('/es/Chat', '_self')">Chat</a>
+                </li>
+                
+              </ul>
+              
+              <div class="user_option">
+               
+                  <a onclick="window.open('https://bit.ly/EbicDiscord', '_self')" class="Join_Discord">
+                    <i class="fab fa-discord" aria-hidden="true"></i>
+                    Discord
+                  </a>
+                <a onclick="FindGame()" class="Play_Now">
+                  <i class="fa-solid fa-play"></i>
+                  Jugar
+                </a>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- end header section -->
+    </div>
 
 
 
 
-<!-- offer section -->
+  <section class="book_section layout_padding">
+    
+    <div class="container">
+      <label style="display: none;" id="ppLoading" for="map" class="form-label"></label>
 
-<section class="offer_section layout_padding-bottom">
-  <div class="offer_container">
-    <div class="container ">
-      <div class="heading_container heading_center">
+      <section  style="user-select: none; display: none;" id="pp">
+        <div class="col-sm-12">
+          <div onclick="RefGame()"  class="alert fade alert-simple alert-info alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
+            <button onclick="StopLd()"  style="z-index: 100;" type="button" class="close font__size-18" data-dismiss="alert">
+                    <span aria-hidden="true">
+                      <i class="fa fa-times blue-cross"></i>
+                    </span>
+                    <span class="sr-only">Close</span>
+                  </button>
+            <i class="start-icon  fa fa-info-circle faa-shake animated"></i>
+            <strong class="font__weight-semibold">Juego Creado!</strong> Anteriormente has creado un juego, toca para jugar.
+          </div>
+        </div>
+        
+      </section>
+
+      <div class="heading_container">
         <h2>
-          Crea condo en segundos
+          Juegos Condo Publicos
         </h2>
-       
       </div>
       <div class="row">
+        <div id="MainBase" style="display: none;" class="col-md-6">
+          <div class="form_container">
+            <form id="ComidasSec" method="POST" action="">
+                    <label class="form-label">Seleccionar Juego</label>
+                    <br>
+                    <select id="CMaps" class="form-select wide" aria-describedby="mapHelp" name="map">
+                      <option value="Ebic">【⭐】Ebic Condos | R15 & R6</option>
+                      <option value="TW6">【🏨】Twisted Condo | R6</option>
+                      <option value="TW15">【🏨】Twisted Condo | R15</option>
+                      <option value="Prd">【🌴】Paradise Condo | Remasterizado, R15</option>
+                    </select>
+                <br>
+                <br>
+                <label  class="form-label">Max Jugadores</label>
+                 <br>
+                <select id="Mnumber" class="form-select wide" aria-describedby="mapHelp" name="map">
+                    <option selected=true value="70">70 Jugadores</option>
+                    <option value="80">80 Jugadores</option>
+                    <option value="90">90 Jugadores</option>
+                    <option value="100">100 Jugadores</option>
+                </select>
+                <br>
+                <br>
+                <br>
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Nombre De La cuenta ( Opcional )</label>
+                    <label style="display: none;" for="Error" id="ClientErrorName" class="form-label">El nombre de la cuenta no es válido</label>
 
-        <div  id="GenFraame" class="col-md-6  ">
-          <div class="box ">
-            <div class="img-box">
-              <img src="/images/people.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Condo Publicos
-              </h5>
-              <h6 id="GnDet">
-                Genera juegos condo para españoles.
-              </h6>
-              <a id="Everyone" href="/es/Create/Public">
-                <i class="fa-solid fa-circle-plus"></i>
-                Generar
-              </a>
-              <br>
-            </div>
+                    <input  type="input" class="form-control" id="Nombre" aria-describedby="">
+                </div>
+
+                <div class="mb-3">
+                    <label for="Phone" class="form-label">Nombre Del Juego ( Opcional )</label>
+                    <label style="display: none;" for="Error" id="ClientErrorPhone" class="form-label">El nombre contiene caracteres inválidos</label>
+
+                    <input  type="input" class="form-control"" id="GameName" aria-describedby="">
+                </div>
+                    <label class="control-label " for="message">Descripción Del Juego ( Opcional )</label>
+                    <label style="display: none;" for="Error" id="ClientErrorMeesage" class="form-label">La descripción contiene caracteres no válidos</label>
+                    <textarea placeholder="" class="form-control" id="message" name="message" >Bienvenido, Esto es E B I C
+Diviértete! 🎉💥</textarea>
+
+
+  <div style=" justify-content: center; align-items: center;" id="recaptcha3"></div>
+
+
+  <button id="primary" type="submit" class="btn btn-primary">Generar</button>
+
+  <br>
+  <div id="pp" style="margin-bottom: -20px; margin-top: 27px; font-size: 13px;" class="col-sm-12">
+    <div class="alert fade alert-simple alert-warning alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
+      <i class="start-icon fa fa-exclamation-triangle faa-flash animated"></i>
+      <strong class="font__weight-semibold"> Considerar: </strong> La descripción y el nombre del juego no deben contener palabras prohibidas por Roblox.
+    </div>
+  </div>
+  </form>
+  </div>
+  </div>
+
+        <div id="error" style="display: none;" class="col-md-6">
+          <div class="form_container">
+            <label style="display: flex; " for="Error" id="ClientErrorHttp" class="form-label">Se ha producido un error inesperado, compruebe su conexión a Internet</label>
           </div>
         </div>
 
-        <div  id="GenFraame" class="col-md-6  ">
-          <div class="box ">
-            <div class="img-box">
-              <img src="/images/team.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Condo Privado
-              </h5>
-              <h6 id="GnDet">
-                Genera juegos para ti y tus amigos.
-              </h6>
-              <a id="Everyone" href="/es/Create/Private">
-                <i class="fa-solid fa-circle-plus"></i>
-                Generar
-              </a>
-              <br>
-            </div>
+        <div id="BaseLoadings" class="col-md-6 loading">
+          <div class="form_container">
+            <form id="ComidasSec" method="POST" action="">
+                    <label id="testd" for="map" class="form-label"></label>
+                    <br>
+                    <label id="loadingSelect" for="map" class="form-label"></label>
+
+                <br>
+                <label id="Ssize" for="map" class="form-label"></label>
+                <br>
+                 <label id="loadingSelect" for="map" class="form-label"></label>
+
+                <br>
+                <br>
+                <div class="mb-3">
+                  <label id="ACNANE" for="map" class="form-label"></label>
+                  <label id="loadingSelect" for="map" class="form-label"></label>
+                </div>
+
+                <div class="mb-3">
+                  <label id="Large" for="map" class="form-label"></label>
+                   <label id="loadingSelect" for="map" class="form-label"></label>
+                </div>
+                <label id="Large" for="map" class="form-label"></label>
+                <label id="loadingTTarea" for="map" class="form-label"></label>
+
+                <br> <br>
+                <label id="loadingbton" for="map" class="form-label"></label>
+
+            </form>
+
+
           </div>
         </div>
 
-        <div  id="GenFraame" class="col-md-6  ">
-          <div class="box ">
-            <div class="img-box">
-              <img src="/images/post.png" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Comparte Tu Juego
-              </h5>
-              <h6 id="GnDet">
-                Compartu tu juego condo para todos.
-              </h6>
-              <a id="Everyone" href="/es/PostCondoGames/">
-                <i class="fa-solid fa-circle-plus"></i>
-                Postear Juegos
-              </a>
-              <br>
-            </div>
+
+        
+        
+        
+         <div class="col-md-6">
+          <div style="padding:11px;" class="form_container"> 
+		  
+<script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+		  
+		  
+		  <script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+		  
+		  		  <script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+		  
+		  
+		  		  <script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+		  
+		  		  		  <script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+
+		  
+		  		  		  <script type="text/javascript">
+	atOptions = {
+		'key' : '3a68c9de514e3a9d600d732bdea5d66e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplayformats.com/3a68c9de514e3a9d600d732bdea5d66e/invoke.js"></scr' + 'ipt>');
+</script>
+
+
+
           </div>
         </div>
 
-        <div style="display: none;" class="col-md-6  ">
-          <div class="box ">
-            <div class="img-box">
-              <img src="" alt="">
-            </div>
-            <div class="detail-box">
-              <h5>
-                Recently Created Condo
-              </h5>
-              <h6>
-                N/A
-              </h6>
-              <a href="">
-                <i class="fa-solid fa-play"></i>
-                Play Now
-              </a>
-            </div>
-          </div>
-        </div>
+
 
       </div>
     </div>
-  </div>
-</section>
 
-<!-- end offer section -->
-
+  </section>
+  <!-- end book section -->
 
   <!-- footer section -->
   <footer class="footer_section">
@@ -272,17 +383,19 @@
   </footer>
   <!-- footer section -->
 
-
-
   <!-- jQery -->
   <script src="/js/jquery-3.4.1.min.js"></script>
+
+<script type="text/javascript">
+  const home = false
+</script>
+<script src="/es/js/home.js"></script>
+
   <!-- popper js -->
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
   </script>
-  <script type="text/javascript">
-    const home = false
-  </script>
-  <script src="/es/js/home.js"></script>
+  <!--Maps-->
+  <script src="/es/js/Maps.js"></script>
   <!-- bootstrap js -->
   <script src="/js/bootstrap.js"></script>
   <!-- owl slider -->
@@ -295,7 +408,11 @@
   <!-- Mains js -->
   <script src="https://robloxcondogame.com/sweetalert2.all.min.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"></script>
+  <script>autosize(document.querySelectorAll('#message'))</script>
+  <script src="https://roblox-api.arkoselabs.com/fc/api/?onload=fcl" async></script>
+
+
 </body>
 
 </html>
-
