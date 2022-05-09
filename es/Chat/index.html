@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <!-- Basic -->
+  <title>Chat</title>
+  <link rel="icon" type="image/png" href="/images/logo.png" sizes="20x20">
+  <script src='https://www.google.com/recaptcha/api.js'></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="Chat condo, Condo publicos, Juegos Condo, Roblox Condo, roblox condo games, juegos en español de roblox, roblox condo español, robloc chill, roblox español condo, roblox es, roblox juegos condo, juegos condo de roblox, juegos en español condo">
+  <meta name="description" content="Aquí encontraras los mejores juegos condo en español de roblox, crea, juega y personaliza juegos condo de roblox en español!" />
+  <meta name="author" content="Diego Miguel" />
+  <meta name="referrer" content="no-referrer">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Rowdies:wght@400;700&display=swap" rel="stylesheet">
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+  <!--owl slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+  <!-- nice select  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.min.css" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+  <!-- font awesome style -->
+  <script src="https://kit.fontawesome.com/448c27a6ba.js" crossorigin="anonymous"></script>
+  <!-- Custom styles for this template -->
+  <link href="/css/style.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://robloxcondogame.com/sweetalert2.min.css">  
+  <!-- responsive style -->
+  <link href="/css/responsive.css" rel="stylesheet" />
+
+
+</head>
+
+
+<body class="sub_page">
+  <div class="hero_area">
+    <div class="bg-box">
+      <!--<img src="/images/.jpg" alt="">-->
+    </div>
+<!-- header section strats -->
+<header class="header_section">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg custom_nav-container ">
+      <a class="navbar-brand" onclick="window.open('/', '_self')">
+        <span>
+          Ebic Condos
+        </span>
+      </a>
+      <p style="display: none;" id="Brands"></p>
+      <p style="display: none;" id="List"></p>
+      <p style="display: none;" id="Games"></p>	
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class=""> </span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav  mx-auto ">
+          <li class="nav-item">
+            <a class="nav-link" onclick="window.open('/es', '_self')">Inicio </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" onclick="window.open('/es/Create', '_self')">Crear </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" onclick="window.open('/HeadAdmin', '_self')">Tienda</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" onclick="window.open('/es/Chat', '_self')">Chat <span class="sr-only">(current)</span> </a>
+          </li>
+          
+        </ul>
+        
+        <div class="user_option">
+         
+            <a onclick="window.open('https://bit.ly/EbicDiscord', '_self')" class="Join_Discord">
+              <i class="fab fa-discord" aria-hidden="true"></i>
+              Discord
+            </a>
+          <a onclick="FindGame()" class="Play_Now">
+            <i class="fa-solid fa-play"></i>
+            Jugar
+          </a>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- end header section -->
+  </div>
+
+
+
+
+<section class="book_section layout_padding">
+    
+  <div class="container">
+
+
+
+    <div style="max-height: 400px;" class="chat-messages p-4">
+
+      <div style="display: none;" class="chat-message-right pb-4">
+        <div>
+          <img style="user-select: none;" src="https://tr.rbxcdn.com/c1f783e14d60950de021fd6fd4841951/150/150/AvatarHeadshot/Png" class="rounded-circle mr-1" alt="Chris Wood" width="40" height="40">
+          <div style="color: #a3b4ff;" class="small text-nowrap mt-2">2:33 am</div>
+        </div>
+        <div class="flex-shrink-1 rounded py-2 px-3 mr-3">
+          <div class="font-weight-bold mb-1">You</div>
+          Lorem ipsum dolor sit amet, vis erat denique in, dicunt prodesset te vix.
+        </div>
+      </div>
+     
+  
+      <div class="chat-message-left pb-4">
+        <div>
+          <img src="https://tr.rbxcdn.com/c1f783e14d60950de021fd6fd4841951/150/150/AvatarHeadshot/Png" class="rounded-circle mr-1" alt="Sharon Lessman" width="40" height="40">
+          <div style="color: #a3b4ff;" class="small text-nowrap mt-2">2:37 am</div>
+        </div>
+        <div class="flex-shrink-1    rounded py-2 px-3 ml-3">
+          <div class="font-weight-bold mb-1">Diego</div>
+          Los mensajes enviados desde el juego aparecerán aquí, recuerda: solo aparecerán los chats públicos del juego, si estás en una habitacion, tus chats no se enviaran, si estás en un juego privado, no se enviarán datos.
+        </div>
+      </div>
+      
+      <div id="pp" style="font-size: 21px;" >
+        <div class="alert fade alert-simple alert-warning alert-dismissible text-left font__family-montserrat font__size-16 font__weight-light brk-library-rendered rendered show" role="alert" data-brk-library="component__alert">
+          <button  type="button" class="close font__size-18" data-dismiss="alert">
+                  <span aria-hidden="true">
+                    <i class="fa fa-times warning"></i>
+                  </span>
+                  <span class="sr-only">Close</span>
+                </button>
+          <i class="start-icon fa fa-exclamation-triangle faa-flash animated"></i>
+          <strong class="font__weight-semibold">Página no disponible  </strong> Estamos configurando esta página, vuelve pronto.
+        </div>
+      </div>
+      
+      
+    </div>
+  </div>
+  
+  <div style="display: none;"  class="flex-grow-0 py-3 px-4 border-top">
+    <div class="input-group">
+      <input type="text" class="form-control" placeholder="Type your message">
+      <button class="btn btn-primary">Send</button>
+    </div>
+  </div>
+  
+  </div>
+
+
+  </div>
+</section>
+
+<style>
+
+body{margin-top:20px;}
+
+.chat-online {
+    color: #34ce57
+}
+
+.chat-offline {
+    color: #e4606d
+}
+
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    max-height: 800px;
+    overflow-y: scroll
+}
+
+.chat-message-left,
+.chat-message-right {
+    display: flex;
+    flex-shrink: 0
+}
+
+.chat-message-left {
+    margin-right: auto
+}
+
+.chat-message-right {
+    flex-direction: row-reverse;
+    margin-left: auto
+}
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.px-4 {
+    padding-right: 1.5rem!important;
+    padding-left: 1.5rem!important;
+}
+.flex-grow-0 {
+    flex-grow: 0!important;
+}
+.border-top {
+    border-top: 1px solid #dee2e6!important;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- footer section -->
+<footer class="footer_section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 footer-col">
+        <div class="footer_contact">
+          <h4>
+            CONTÁCTENOS
+          </h4>
+          <div class="contact_link_box">
+            <p>
+              Todos los mensajes serán recibidos en nuestra cuenta de discord.
+            </p>
+            <a onclick="window.open('https://bit.ly/EbicDiscord', '_self')">
+              <i class="fab fa-discord" aria-hidden="true"></i><span>
+                @Ebic#3597
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 footer-col">
+        <div class="footer_detail">
+          <a onclick="window.open('/', '_self')" class="footer-logo">
+            Ebic
+          </a>
+          <p>
+            Somos la unión de los mejores creadores de Roblox Condo, ofrecemos juegos de la mejor calidad como una forma de entretenimiento sin fines de lucro.
+          </p>
+          <div class="footer_social">
+            <a href="https://bit.ly/DonateCondo">
+              <i class="fa-brands fa-paypal"></i>
+            </a>
+            <a onclick="window.open('https://bit.ly/EbicDiscord', '_self')">
+              <i class="fab fa-discord" aria-hidden="true"></i>
+            </a>
+            <a href="https://www.youtube.com/channel/UCcN_S-kA7XD5VCxtrDECJ1Q">
+              <i class="fa-brands fa-youtube"></i>
+            </a>
+            <a href="https://robloxcondogame.com/HeadAdmin">
+              <i class="fa-solid fa-crown"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 footer-col">
+        <h4>
+          FAQ
+        </h4>
+        <p>
+          Preguntas y respuestas sobre nuestros juegos.
+        </p>
+        <div style="align-items: center; justify-content: center;" class="user_option">
+          <a onclick="window.open('/es/FAQ', '_self')" class="FAQ">
+            <i class="fa-solid fa-star"></i>
+            Aprende Más
+          </a>
+      </div>
+      </div>
+    </div>
+    <div  class="footer-info">
+      <p>
+        &copy; <span id="displayYear"></span> Derechos reservados para
+        <a style="-webkit-transition: all 0.3s; transition: all 0.3s; padding: 3px; border-radius: 8px; border-color: #a3b0ff; color: rgb(155, 169, 255);" onclick="window.open('/', '_self')">Ebic Condos</a><br><br>
+        &copy; <span id="displayYear"></span> Distribuido Por
+        <a style="-webkit-transition: all 0.3s; transition: all 0.3s; padding: 3px; border-radius: 8px; border-color: #e3a44d; color: #e3a44d;" target="_blank">Diego Miguel</a>
+      </p>
+    </div>
+  </div>
+</footer>
+<!-- footer section -->
+
+ <!-- jQery -->
+ <script src="/js/jquery-3.4.1.min.js"></script>
+ <!-- popper js -->
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+ </script>
+ <script type="text/javascript">
+   const home = false
+ </script>
+ <script src="/es/js/home.js"></script>
+ <!-- bootstrap js -->
+ <script src="/js/bootstrap.js"></script>
+ <!-- owl slider -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+ </script>
+ <!-- isotope js -->
+ <script src="https://unpkg.com/isotope-layout@3.0.4/dist/isotope.pkgd.min.js"></script>
+ <!-- nice select -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.min.js"></script>
+ <!-- Mains js -->
+ <script src="https://robloxcondogame.com/sweetalert2.all.min.js"></script>
+
+</body>
+
+</html>
+
