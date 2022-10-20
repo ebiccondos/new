@@ -128,9 +128,9 @@
                     <br>
                     <select id="CMaps" class="form-select wide" aria-describedby="mapHelp" name="map">
                       <option value="Ebic">【⭐】Ebic Condos | R15 & R6</option>
-                      <option value="TW6">【🏨】Twisted Condo | R6</option>
-                      <option value="TW15">【🏨】Twisted Condo | R15</option>
-                      <option value="Prd">【🌴】Paradise Condo | Remastered, R15</option>
+                      <option value="ccr6">【🌜】Cuarentena Chill (Original) | R6</option>
+                      <option value="ccr15">【🌜】Cuarentena Chill (Original) | R15</option>
+                      <option disabled value="Prd">【⚠️】Coming soon</option>
                     </select>
                 <br>
                 <br>
@@ -157,11 +157,9 @@
 
                     <input  type="input" class="form-control" id="Nombre" aria-describedby="">
                 </div>
-
                 <div class="mb-3">
                     <label for="Phone" class="form-label">Game Name ( Optional )</label>
                     <label style="display: none;" for="Error" id="ClientErrorPhone" class="form-label">The name contains invalid characters</label>
-
                     <input  type="input" class="form-control" id="GameName" aria-describedby="">
                 </div>
                     <label class="control-label " for="message">Game description ( Optional )</label>
@@ -173,7 +171,8 @@ Have fun! 🎉💥</textarea>
   <input style="cursor: pointer;" type="checkbox" class="custom-control-input" id="defaultIndeterminate2">
   <label style="user-select: none; cursor: pointer;" class="custom-control-label" for="defaultIndeterminate2">Allow the game to be shared on our page</label>
 </div>
-<div style="margin-top: 8px; justify-content: center; align-items: center;" id="recaptcha3"></div>
+<!-- <div style="margin-top: 8px; justify-content: center; align-items: center;" id="recaptcha3"></div>
+ -->
 
 
   <button id="primary" type="submit" class="btn btn-primary">Generate Now</button>
@@ -355,8 +354,4 @@ Have fun! 🎉💥</textarea>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"></script>
   <script>autosize(document.querySelectorAll('#message'))</script>
   <script src="https://roblox-api.arkoselabs.com/fc/api/?onload=fcl" async></script>
-
-
-</body>
-
 </html>
